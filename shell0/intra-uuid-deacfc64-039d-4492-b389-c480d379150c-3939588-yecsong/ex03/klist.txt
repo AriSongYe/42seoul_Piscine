@@ -1,0 +1,7 @@
+Credentials cache: API:F37C8CE8-51D5-412A-A323-8DDB3194E9B6
+        Principal: yecsong@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jan  5 16:12:10 2022  Jan  6 02:12:10 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
+Jan  5 16:12:12 2022  Jan  6 02:12:10 2022  HTTP/student-storage.42seoul.kr@42SEOUL.KR
+yecsong@c7r5s1 ex03 %
